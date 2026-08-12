@@ -12,4 +12,5 @@ Most of my development runs on hardware I own. That includes git. What lands her
 
 **[llm_orchestrator](https://github.com/ryansansbury/llm_orchestrator)** runs many AI coding agents at once and puts all of them on one screen. Session cards sort themselves by which one needs you, and any card opens as a live terminal. The work lives in tmux, so it survives the app quitting and you walking away. Standard library only.
 
-**[agent_harness](https://github.com/ryansansbury/agent_harness)** (coming soon) is a voice-first agent framework. It routes across OpenAI, Google, Ollama, and the Claude Code CLI, keeps private topics on a local model by construction, and carries 24 tools on one plugin interface. Press the mic to talk and send when you are done.
+**[agent_harness](https://github.com/ryansansbury/agent_harness)** is a voice-first agent framework. It routes across OpenAI, Anthropic, Google, Ollama, and the Claude Code CLI, keeps sensitive topics on a local model by construction, and carries 24 tool plugins behind a prompt injection gate. Press the mic to talk and send when you are done.
+
