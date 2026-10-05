@@ -1,6 +1,6 @@
 # Ryan Sansbury
 
-Data analyst and software developer. I build analytics platforms, agentic AI systems, and the infrastructure underneath both.
+Data analysis, BI development, technical sales, and applied AI. I build analytics platforms, agentic AI systems, and the infrastructure underneath both.
 
 Most of my development runs on hardware I own. That includes git. What lands here is the work built to be read by someone else.
 
